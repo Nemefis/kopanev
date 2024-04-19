@@ -475,7 +475,8 @@ footer {
   .create-team__left-pic2 img {
     left: 15rem;
   }
-  .create-team__left img {
+  .create-team__left img,
+  .gallery {
     display: none;
   }
   .cards .container .row .col-md-4 {
@@ -498,5 +499,9 @@ footer {
   }
   .card-title {
     font-size: 17px;
+  }
+  .button__header,
+  .create-team__right > div > :last-child {
+    text-align: center;
   }
 }
