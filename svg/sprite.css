@@ -1,0 +1,36 @@
+.svg-creditcardsvg {
+    background: url("sprite-5caad268.svg") 51.21951219512195% 0 no-repeat;
+}
+
+.svg-creditcardsvg-dims {
+    width: 20px;
+    height: 15px;
+}
+
+.svg-displaysvg {
+    background: url("sprite-5caad268.svg") 0 100% no-repeat;
+}
+
+.svg-displaysvg-dims {
+    width: 20px;
+    height: 18px;
+}
+
+.svg-locationsvg {
+    background: url("sprite-5caad268.svg") 100% 0 no-repeat;
+}
+
+.svg-locationsvg-dims {
+    width: 20px;
+    height: 20px;
+}
+
+.svg-userssvg {
+    background: url("sprite-5caad268.svg") 0 0 no-repeat;
+}
+
+.svg-userssvg-dims {
+    width: 21px;
+    height: 20px;
+}
+
